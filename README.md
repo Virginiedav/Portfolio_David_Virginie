@@ -154,7 +154,8 @@ Migrer des tableaux de bord existants de **Tableau Software vers Power BI** afin
 ## 📫 Me contacter
 
 - 📍 Rennes  
-- 📧 Email : v.david354@laposte.net  
+- 📧 Email : v.david354@laposte.net
+- 📞 06.46.58.54.26
 - 💼 LinkedIn :  
   👉 https://www.linkedin.com/in/virginie-david-b1b6b621b/
 

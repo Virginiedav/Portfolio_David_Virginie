@@ -1,164 +1,239 @@
 # 👋 Bonjour, je suis Virginie David
 
-🎯 **Data Analyst / Consultante Data** avec une double expérience en **analyse de données** et en **comptabilité**, récemment diplômée et **en recherche active d’un poste de Data Analyst ou Consultante Data sur le bassin rennais**.
+### 🎯 Data Analyst | Consultante Data  
+📍 Rennes | Disponible immédiatement  
 
-Rigoureuse, curieuse et orientée métier, je mets la donnée au service de la **prise de décision** et de la **résolution de problématiques concrètes**.
+💼 2 ans d’expérience en alternance chez Orange  
+🎓 Titre RNCP Data Analyst – Niveau 6 (2025)
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 Mon positionnement
 
-- 🎓 **Titre RNCP Data Analyst – Niveau 6** (CFA Orange / OpenClassrooms – 2025)
-- 💼 **2 ans d’expérience en alternance Data Analyst chez Orange**
-- 📊 Expertise en **SQL, Python, BigQuery, Power BI**
-- 🧠 À l’aise avec les **données volumineuses** et les environnements cloud
-- 📍 **Disponible immédiatement – Bassin rennais**
+Data Analyst avec une double expérience en **analyse de données** et en **comptabilité**, je transforme les données en **leviers d’aide à la décision**.
+
+🔄 De la collecte & transformation (ETL)  
+📊 À la visualisation & restitution décisionnelle  
+
+🎯 En recherche active d’un poste de **Data Analyst ou Consultante Data sur le bassin rennais**.
+
+---
+
+## 🛠️ Stack & Outils
+
+### 🔄 Data & ETL
+![KNIME](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=knime&logoColor=yellow)
+![Alteryx](https://img.shields.io/badge/Alteryx-005DAA?style=for-the-badge)
+![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
+
+### 📊 BI & Visualisation
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge)
+
+### 🐍 Analyse & Automatisation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
+
+### ☁️ Environnement
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ## 🧠 Compétences techniques
 
-### 📈 Analyse & traitement de données
-- Python (Pandas)
-- Nettoyage, transformation et analyse de données massives
+<details>
+<summary>📈 Analyse & Traitement de données</summary>
 
-### 🗄️ Bases de données & requêtes
-- SQL
-- BigQuery (Google Cloud Platform)
+- Python (Pandas)  
+- Nettoyage, transformation et analyse de données massives  
+- Analyse exploratoire et fiabilisation des données  
+- Automatisation de traitements  
 
-### 📊 Data Visualisation
-- Power BI
-- Tableau Software
+</details>
 
-### ☁️ Cloud & outils
-- Google Cloud Platform (GCP)
-- Git, GitLab
-- Visual Studio Code
+---
 
-### 🧰 Bureautique & automatisation
-- Excel avancé (TOSA 845/1000)
-- Macros VBA
-- Automatisation & scraping
+<details>
+<summary>🔄 ETL & Data Engineering</summary>
 
-### 🧩 Méthodologies
-- Agile Scrum
-- Travail en mode projet
-- Documentation & transfert de compétences
+- KNIME – conception de workflows analytiques  
+- Alteryx – préparation et automatisation de flux  
+- Talend – intégration et transformation de données  
+- Modélisation de socles de données  
+- Optimisation de requêtes SQL  
+
+</details>
+
+---
+
+<details>
+<summary>🗄️ Bases de données & Cloud</summary>
+
+- SQL  
+- BigQuery (Google Cloud Platform)  
+- Modélisation et structuration de datasets  
+- Gestion de données volumineuses  
+
+</details>
+
+---
+
+<details>
+<summary>📊 Data Visualisation</summary>
+
+- Power BI  
+- Tableau Software  
+- Conception de KPI orientés métiers  
+
+</details>
+
+---
+
+<details>
+<summary>🧩 Méthodologies & Organisation</summary>
+
+- Agile Scrum  
+- Travail en mode projet  
+- Documentation & transfert de compétences  
+- Collaboration équipes métier / IT  
+
+</details>
 
 ---
 
 ## 📂 Projets Data
 
-### **Création d’un socle de données BigQuery – Projet d’entreprise**
+<details>
+<summary>🔷 Création d’un socle de données BigQuery – Orange</summary>
 
-Projet réalisé dans le cadre de ma **seconde année d’alternance en tant que Data Analyst chez Orange (domaine Broadband)**.
+Projet réalisé lors de ma seconde année d’alternance (domaine Broadband).
 
-🎯 **Objectif**  
-Concevoir un **socle de données BigQuery** permettant l’exploitation et l’analyse de données massives afin d’alimenter des analyses métiers et des tableaux de bord d’aide à la décision.
+### 🎯 Objectif  
+Concevoir un socle BigQuery permettant l’exploitation de données massives pour alimenter les analyses métiers.
 
-🛠️ **Travaux réalisés**
-- Conception et structuration du modèle de données
-- Création et optimisation de requêtes **SQL BigQuery**
-- Préparation et fiabilisation des données
-- Mise à disposition du socle pour les usages analytiques
-- Rédaction de la documentation et passation du projet
+### 🛠️ Réalisations
+- Conception du modèle de données  
+- Optimisation de requêtes SQL BigQuery  
+- Fiabilisation et transformation des données  
+- Mise à disposition pour exploitation BI  
+- Documentation & passation  
 
-⚠️ *Les données et le code présentés sont anonymisés afin de respecter la confidentialité des données d’entreprise.*
+🔗 Projet GitHub :  
+👉 https://github.com/Virginiedav/Projet_entreprise_bigquery_socle_donnees  
 
-🔗 **Voir le projet GitHub**  
-👉 https://github.com/Virginiedav/Projet_entreprise_bigquery_socle_donnees
+⚠️ Données anonymisées pour confidentialité.
+
+</details>
 
 ---
 
-### **Migration de dashboards Tableau Software vers Power BI**
+<details>
+<summary>🔷 Migration Tableau Software → Power BI</summary>
 
-Projet réalisé lors de ma **première année d’alternance chez Orange**.
+Projet réalisé lors de ma première année chez Orange.
 
-🎯 **Objectif**  
-Migrer des tableaux de bord existants de **Tableau Software vers Power BI** afin d’harmoniser les outils de data visualisation et d’améliorer la diffusion des indicateurs métiers.
+### 🎯 Objectif  
+Harmoniser les outils BI et améliorer la diffusion des indicateurs métiers.
 
-🛠️ **Travaux réalisés**
-- Analyse des dashboards existants (KPI, sources, usages)
-- Reprise et adaptation des indicateurs dans Power BI
-- Optimisation des modèles de données
-- Amélioration de l’ergonomie et de la lisibilité des tableaux de bord
-- Accompagnement des utilisateurs dans la prise en main de Power BI
+### 🛠️ Réalisations
+- Analyse des dashboards existants  
+- Reprise et adaptation des KPI  
+- Optimisation des modèles  
+- Amélioration UX  
+- Accompagnement utilisateurs  
+
+🏆 2ᵉ place – Dataviz Challenge (10 équipes internationales)
+
+</details>
 
 ---
 
 ## 💼 Expériences professionnelles
 
-### **Data Analyst (Alternance)** – Orange, Rennes  
-📅 *09/2023 – 09/2025*
+<details>
+<summary>🔷 Data Analyst (Alternance) – Orange (09/2023 – 09/2025)</summary>
 
 **Première année**
-- Migration de dashboards **Tableau Software vers Power BI**
-- Analyses métiers pour la prise de décision sur des **volumes massifs de données**
-- 🏆 **2ᵉ place sur 10 équipes internationales** – Dataviz Challenge (données de raccordement fibre)
+- Migration Tableau → Power BI  
+- Analyses métiers sur volumes massifs  
+- Dataviz Challenge – 2ᵉ place  
 
 **Deuxième année**
-- Création de **socles de données BigQuery (GCP)**
-- Analyse des données de raccordement fibre (projet CFA)
-- Suivi et pilotage de projets data
-- Rédaction de documentation et **passation de projets**
+- Création de socles BigQuery (GCP)  
+- Analyse données raccordement fibre  
+- Pilotage projets data  
+- Documentation & passation  
+
+</details>
 
 ---
 
-### **Analyste facturation** – Konica Minolta  
-📅 *2022*
+<details>
+<summary>🔷 Analyste facturation – Konica Minolta (2022)</summary>
 
-- Création de dashboards **Power BI** pour le suivi des non-facturés
-- Analyses via **ERP SAP** et bases de données externes
+- Dashboards Power BI  
+- Analyses ERP SAP  
+- Suivi des non-facturés  
+
+</details>
 
 ---
 
-### **Agent de comptabilité** – UPS  
-📅 *11/2018 – 11/2021*
+<details>
+<summary>🔷 Agent de comptabilité – UPS (2018 – 2021)</summary>
 
-- Gestion SAV, avoirs et refacturations
-- Contestations tarifaires
-- Excel avancé et macros VBA
-- Création d’un programme de scraping
-- Gestion de fichiers douaniers
+- Gestion SAV & refacturations  
+- Excel avancé & VBA  
+- Programme de scraping  
+- Gestion fichiers douaniers  
+
+</details>
 
 ---
 
 ## 🎓 Formation
 
-- **2025** – Titre RNCP Data Analyst (Niveau 6) – OpenClassrooms / CFA Orange  
-- **2022** – Formation Data Analyst – DataBird  
-- **2022** – Formation Power BI – DataScientest  
-- **2022** – Formation Agile Scrum  
-- **2021** – Formation VBA  
-- **2017** – Licence 2 Économie-Gestion – Université Rennes 1
+- **2026** – ETL Alteryx  
+- **2026** – ETL Talend  
+- **2025** – Titre RNCP Data Analyst – Niveau 6  
+- **2022** – DataBird  
+- **2022** – DataScientest (Power BI)  
+- **2022** – Agile Scrum  
+- **2021** – VBA  
+- **2017** – Licence 2 Économie-Gestion  
 
 ---
 
-## 🌟 Soft skills
+## 🌟 Soft Skills
 
-- Autonome & rigoureuse  
-- Curieuse & persévérante  
-- Organisée  
-- Esprit d’équipe  
-- Capacité d’adaptation rapide  
+✔️ Autonome & rigoureuse  
+✔️ Curieuse & persévérante  
+✔️ Organisée  
+✔️ Esprit d’équipe  
+✔️ Adaptation rapide  
 
 ---
 
 ## 🌍 Langues
 
-- 🇬🇧 Anglais : intermédiaire (B1)
-- 🇪🇸 Espagnol : élémentaire
+🇬🇧 Anglais : intermédiaire (B1)  
+🇪🇸 Espagnol : élémentaire  
 
 ---
 
 ## 📫 Me contacter
 
-- 📍 Rennes  
-- 📧 Email : v.david354@laposte.net
-- 📞 06.46.58.54.26
-- 💼 LinkedIn :  
-  👉 https://www.linkedin.com/in/virginie-david-b1b6b621b/
+📍 Rennes  
+📧 v.david354@laposte.net  
+📞 06.46.58.54.26  
+
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/virginie-david-b1b6b621b/
 
 ---
 
-✨ *Disponible immédiatement – ouverte aux opportunités Data Analyst ou Consultante Data sur le bassin rennais.*
+✨ Disponible immédiatement – ouverte aux opportunités Data Analyst / Consultante Data.

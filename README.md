@@ -31,6 +31,9 @@ Data Analyst avec une double expérience en **analyse de données** et en **comp
 ### 📊 BI & Visualisation
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik)
+![Qlik Cloud](https://img.shields.io/badge/Qlik%20Cloud-009848?style=for-the-badge&logo=qlik)
+
 
 ### 🐍 Analyse & Automatisation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
